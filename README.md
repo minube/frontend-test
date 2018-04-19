@@ -3,7 +3,7 @@
 ## Before you begin
 ### Purpose of the test
 The purpose of the test is to evaluate a candidate’s technical abilities.
-
+Cambiado
 ### Criteria
 The evaluation will take into account the following criteria:
 - Cleanliness of code
